@@ -2,6 +2,7 @@
   "absolute_path": "",
   "directory": "",
   "git_remote": "",
+  "tmp_dirname": "tmp_project",
   "overrides": [
     {
       "origin": "",
